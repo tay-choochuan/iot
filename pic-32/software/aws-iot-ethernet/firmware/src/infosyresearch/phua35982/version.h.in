@@ -1,0 +1,14 @@
+
+
+#pragma once
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#define LIBWOLFMQTT_VERSION_STRING "@VERSION@"
+#define LIBWOLFMQTT_VERSION_HEX @HEX_VERSION@
+
+#ifdef __cplusplus
+}
+#endif
